@@ -6,7 +6,7 @@ origin = C
 cycle = 0
 
 if 0 <= N <= 99:
-    while (A/10) != B:
+    while True:
        
         A = int(C / 10)
         B = C % 10
